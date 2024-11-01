@@ -12,7 +12,7 @@ export default function Navbb({hello}) {
   return (
     <div>
       {hello}
-      
+      hi
     </div>
   )
 }
